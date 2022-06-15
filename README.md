@@ -1,11 +1,10 @@
-# Movie_Recommender_System
+# Movie Recommender System
 
 #### Movie Recommender is a practically applicable program which is used in real life. My python project takes TMDB movie data consisting of almost 5000 movies. The program takes a movie as input which a user likes and recommends 5 closely resembling movies alongwith their posters. 
 
 ### I am attaching a screenshot of the final API which runs on my localhost.
 
 ![Screenshot (67)](https://user-images.githubusercontent.com/87764530/173776686-98c4fedc-31f5-4593-be62-d1d6a4d6f480.png)
-
 
 The project was divided into 3 parts:
 
